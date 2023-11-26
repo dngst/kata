@@ -1,3 +1,11 @@
 # Kata
 
-[Codewars](https://www.codewars.com/users/dngst/)
+```
+gem install pry pry-doc
+```
+
+$ pry
+
+ls String
+
+show-doc String#chars
