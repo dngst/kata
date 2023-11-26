@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 def digitize(num)
-  num.to_s.reverse.split('').map(&:to_i)
+  num.to_s.reverse.chars.map(&:to_i)
 end
 
 p digitize(35_231)
