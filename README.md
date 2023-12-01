@@ -6,6 +6,6 @@ gem install pry pry-doc
 
 $ pry
 
-ls String
+ls Class
 
-show-doc String#chars
+show-doc Class#method
