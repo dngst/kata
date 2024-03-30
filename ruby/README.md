@@ -1,3 +1,2 @@
-# Kata
-
 $ ri Class#method
+
